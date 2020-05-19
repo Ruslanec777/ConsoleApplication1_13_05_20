@@ -80,3 +80,4 @@ int main()
 
 	cout << "Square of 5 is : " << square(5) << endl;
 }
+//Git testing MSVS string for new test commit
